@@ -1,0 +1,75 @@
+
+* {
+    margin: 5;
+    padding: 5;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #black;
+    line-height: 1.5;
+    padding: 25px;
+    font-size: 18px;
+}
+
+.links {
+	color:lightskyblue;
+	text-decoration: none;
+}
+
+.links:hover {
+    color:red;
+    text-decoration: underline;
+}
+
+
+table {
+  border-collapse: collapse; 
+  width: 50%;
+  margin: 0 auto; 
+  background-color: lightgrey;
+}
+table, th, td {
+  border: 2px solid #333; 
+  padding: 10px; 
+  text-align: center; 
+}
+th {
+	text-decoration: underline;
+}
+
+span {
+    text-decoration: underline;
+}
+
+#orca {
+	width:400px;
+	height:auto;
+
+}
+
+nav ol li {
+    list-style: none;
+}
+
+
+.spanR2D2 {
+    color:blue;
+    text-decoration: none;
+}
+
+article .Beep {
+    color: darkred;
+}
+
+.goat {
+    padding: 250px;
+    text-decoration: none;
+}
+
+#Contactme {
+    text-align: center;
+    background-color: lightgrey;
+}
